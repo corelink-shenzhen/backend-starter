@@ -21,7 +21,7 @@
     "postinstall": "npm run build"
   },
   "dependencies": {
-    "@corelink/db": "^0.2.0",
+    "@corelink/db": "^0.3.0",
     "@nestjs/common": "^5.1.0",
     "@nestjs/core": "^5.1.0",
     "@nestjs/swagger": "^2.5.1",
